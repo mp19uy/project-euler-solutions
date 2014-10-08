@@ -1,4 +1,4 @@
-Learning resources:
+## Learning resources:
 
 #### Exercises
 * http://projecteuler.net
